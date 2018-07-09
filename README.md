@@ -13,7 +13,7 @@ Convolution is the process of adding each element of the image to its local neig
 ### ZIP File
 On the top-right corner, there should be a green button that says Clone or Download. Click it and download the ZIP File (For the normal peeps), or clone it (Only if you know how to)
 Once you download the package, go to the correct directory and run the correct program for your OS.
-### OS Differences
+### Direction Based on OS
 - For Windows-32: Kernel-Image-Processing/Kernel/application.windows32/Kernel.exe
 - For Windows-64: Kernel-Image-Processing/Kernel/application.windows64/Kernel.exe
 - For MacOSX-64: Kernel-Image-Processing/Kernel/application.macosx64/Kernel.app/Contents/MacOS/Kernel
