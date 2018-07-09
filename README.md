@@ -21,3 +21,10 @@ Once you download the package, go to the correct directory and run the correct p
 - For Linux-ArmV6HF: Kernel-Image-Processing/Kernel/application.linux-armv6hf/Kernel
 - For Linux-32 : Kernel-Image-Processing/Kernel/application.linux32/Kernel
 - For Linux-64 : Kernel-Image-Processing/Kernel/application.linux64/Kernel
+
+## How do I run this?
+Once you've found the correct executable, make sure that your webcam is enabled. Also make sure that the privacy settings of the webcam won't block the program. Once the program is running, here is how you use the different kernels.
+- Press 1 -> Normal/Identity
+- Press 2 -> Blur
+- Press 3 -> Edge Detection
+- Press 4 -> Sharpen
