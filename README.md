@@ -7,7 +7,7 @@ Image Processing is a method of image processing that allows one to blur, sharpe
 ### Kernel
 A Kernel is simply a matrix, typically 3x3 or 5x5, that has different values depending on the effect it should achieve. Each value within a kernel becomes important in the mathematics of the changing of a pixel. A Normalized Kernel would have elements, whose sum is one.
 ### Convolution
-Convolution is the process of adding each element of the image to its local neighbors, weighted by the kernel. This is related to a form of mathematical convolution. <href="https://en.wikipedia.org/wiki/Kernel_(image_processing)"><i>From Wikipedia</i></href>
+Convolution is the process of adding each element of the image to its local neighbors, weighted by the kernel. This is related to a form of mathematical convolution. [*From Wikipedia*](https://en.wikipedia.org/wiki/Kernel_(image_processing))
 
 ## How do I download this?
 ### ZIP File
